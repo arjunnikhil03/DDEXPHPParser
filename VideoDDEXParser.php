@@ -4,17 +4,17 @@ error_reporting(E_ALL);
 ini_set('display_error',1);
 class SonyXmlParser extends mysqli{
 
-	private $dirLocation = "/oldstorage/publisher/sonymusic/musicvideos/";
+	private $dirLocation = "XML_FILE_ACTUAL_DESTINATION";
 
-	private $destLocation = "/jiomediadata/kaltura/vod/VOD_Content/sony_xml/";
+        private $destLocation = "BACKUP_XML_FILE_DESTINATION";
 
-	private $mysql_host = "10.130.22.11";
+        private $mysql_host = "MYSQL_IP";
 
-	private $mysql_user = "root";
+        private $mysql_user = "MYSQL_USER";
 
-	private $mysql_pass = "rcp@idc980";
+        private $mysql_pass = "MYSQL_PASSWORD";
 
-	private $mysql_db = "jiovod_sony";
+        private $mysql_db = "DBNAME";
 
 	private $output  = array();
 
