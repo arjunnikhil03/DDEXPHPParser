@@ -1,5 +1,5 @@
 # DDEXPHPParser
-DDEX Parser Can be use for Parsing DDEX XML FILE
+DDEX PHP Parser Can be use for Parsing DDEX XML FILE
 
 it is been tested on:-
 * Sony Music DDEX XML
