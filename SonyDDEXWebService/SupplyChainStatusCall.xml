@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ern-c:WsAcknowledgementMessage xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:ern-c="http://ddex.net/xml/ern-c/15" xmlns:ernm="http://ddex.net/xml/ern/381" MessageVersionId="1.5">
+    <MessageHeader>
+        <WsMessageId>0c0d5446-9cb6-48ea-bed5-cc0304e3c0bc</WsMessageId>
+        <MessageSender>
+            <PartyId>PADPIDA2007040502I</PartyId>
+            <PartyName>
+                <FullName>Sony Music Entertainment</FullName>
+            </PartyName>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>PADPID2016011901E_TEST</PartyId>
+            <PartyName>
+                <FullName>Reliance Jio- Cloned</FullName>
+            </PartyName>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2017-09-08T11:42:28.333+02:00</MessageCreatedDateTime>
+        <IsSymmetric>false</IsSymmetric>
+        <Priority>Normal</Priority>
+    </MessageHeader>
+    <AcknowledgedWsMessageId>ACK1504863748333</AcknowledgedWsMessageId>
+    <ReceivedWsMessageStatus>ValidMessageReceived</ReceivedWsMessageStatus>
+</ern-c:WsAcknowledgementMessage>
