@@ -8,3 +8,5 @@ it is been tested on:-
 * WARNER Music DDEX XML
 * Fox Star DDEX XML
 * WB DDEX XML
+
+* SONY MUSIC WEB SERIVCE BASED DDEX PARSER
