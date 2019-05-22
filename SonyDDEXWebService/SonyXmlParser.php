@@ -4,13 +4,13 @@ require_once "constant.php";
 
 class SonyXmlParser extends PDO{
 
-	private $mysql_host = "kdb.ril.com";
+	private $mysql_host = "12312321.com";
 
-	private $mysql_user = "kaltura";
+	private $mysql_user = "hello";
 
-	private $mysql_pass = "kaltura123";
+	private $mysql_pass = "hello123";
 
-	private $mysql_db = "jiobeats_sonymusic";
+	private $mysql_db = "sonymusic";
 
 	private $output  = array();
 
