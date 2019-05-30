@@ -10,3 +10,7 @@ it is been tested on:-
 * WB DDEX XML
 
 * SONY MUSIC WEB SERIVCE BASED DDEX PARSER
+
+Please find below link for:
+#DDEXPythonParser
+https://github.com/nikhilpnik/DDEXPythonParser
