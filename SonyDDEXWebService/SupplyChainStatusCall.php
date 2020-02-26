@@ -15,15 +15,15 @@ foreach($result as $data){
 <echo:SupplyChainStatusMessage xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 xmlns:echo="http://ddex.net/xml/ern-c/15" MessageVersionId="1.5">
 <MessageHeader>
-<WsMessageId>2348b71b-47be-4d51-963a-692526208048</WsMessageId>
+<WsMessageId>adsasdasdasd</WsMessageId>
 <MessageSender>
-<PartyId>PADPID2016011901E_TEST</PartyId>
+<PartyId>asdadasd</PartyId>
 <PartyName>
 <FullName>Release Distributor</FullName>
 </PartyName>
 </MessageSender>
 <MessageRecipient>
-<PartyId>PADPIDA2007040502I</PartyId>
+<PartyId>asdasdasd</PartyId>
 <PartyName>
 <FullName>Release Creator</FullName>
 </PartyName>
@@ -33,7 +33,7 @@ xmlns:echo="http://ddex.net/xml/ern-c/15" MessageVersionId="1.5">
 <Priority>Normal</Priority>
 </MessageHeader>
 <DSP>
-<PartyId>PADPID2016011901E_TEST</PartyId>
+<PartyId>adasdasdadasd</PartyId>
 </DSP>
 <ReleaseId>
 <GRid>'.$data["Grid"].'</GRid>
