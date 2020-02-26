@@ -540,7 +540,7 @@ CREATE TABLE `sony_songlist` (
   `ImageWidth` varchar(30) DEFAULT NULL,
   `ImageResolution` varchar(30) DEFAULT NULL,
   `wav_status` char(5) DEFAULT '0',
-  `added_to_jiobeats` int(11) DEFAULT '0',
+  `added_to_cms` int(11) DEFAULT '0',
   `Actor` varchar(200) DEFAULT NULL,
   PRIMARY KEY (`srno`),
   KEY `xmlid` (`xmlid`),
